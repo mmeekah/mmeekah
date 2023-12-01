@@ -2,8 +2,8 @@
 
 I'm DevOps Engineer with Computer Science background. With experience spanning various industries, I specialize in cloud automation using AWS, Azure, IBM Cloud along with automation tools like Terraform and Ansible. My passion lies in bridging the gap between development and operations, optimizing processes, and ensuring efficient software delivery.
 
-[![LinkedIn](URL_of_LinkedIn_button_image)](Your_LinkedIn_Profile_Link)
-[![Website](URL_of_Website_button_image)](Your_Website_Link)
+[![LinkedIn](https://github.com/mmeekah/mmeekah/blob/main/linkedin.png)](https://www.linkedin.com/in/mereilim-aitassova/)
+[![Website](https://github.com/mmeekah/mmeekah/blob/main/website.png)](https://epic-goldwasser-4ed6e8.netlify.app/)
 
 ### Technical Skills 👩🏻‍💻
 - **Backend:** Python, Java, Bash, Makefile, Node.js (ExpressJS, NestJS)
