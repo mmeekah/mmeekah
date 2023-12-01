@@ -12,7 +12,7 @@ I'm DevOps Engineer with Computer Science background. With experience spanning v
 ### Technical Skills 👩🏻‍💻
 - **Backend:** Python, Java, Bash, Makefile, Node.js (ExpressJS, NestJS)
 - **IaaC:** Terraform, Ansible
-- **Orchestration:**: K8s, Docker, ECS
+- **Orchestration:** K8s, Docker, ECS
 - **CI/CD:** Amazon Web Services (AWS), Azure, Docker, Kubernetes, Jenkins, ArgoCD, Redis
 - **Logging:** Prometheus, Grafana
 - **Frontend:** Angular, React, NextJS
