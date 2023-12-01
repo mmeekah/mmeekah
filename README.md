@@ -3,10 +3,10 @@
 I'm DevOps Engineer with Computer Science background. With experience spanning various industries, I specialize in cloud automation using AWS, Azure, IBM Cloud along with automation tools like Terraform and Ansible. My passion lies in bridging the gap between development and operations, optimizing processes, and ensuring efficient software delivery.
 
 <a href="https://www.linkedin.com/in/mereilim-aitassova/">
-    <img src="https://github.com/mmeekah/mmeekah/blob/main/linkedin.png" width="150" height="45" alt="LinkedIn">
+    <img src="https://github.com/mmeekah/mmeekah/blob/main/linkedin.png" width="160" height="40" alt="LinkedIn">
 </a>
 <a href="https://epic-goldwasser-4ed6e8.netlify.app/">
-    <img src="https://github.com/mmeekah/mmeekah/blob/main/website.png" width="120" height="40" alt="Website">
+    <img src="https://github.com/mmeekah/mmeekah/blob/main/website.png" width="100" height="47" alt="Website">
 </a>
 
 ### Technical Skills 👩🏻‍💻
