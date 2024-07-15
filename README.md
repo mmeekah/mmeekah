@@ -1,6 +1,6 @@
 ### Hi there - I'm Mereilim 👋
 
-I'm DevOps Engineer with Computer Science background. With experience spanning various industries, I specialize in cloud automation using AWS, Azure, IBM Cloud along with automation tools like Terraform and Ansible. My passion lies in bridging the gap between development and operations, optimizing processes, and ensuring efficient software delivery.
+I'm Software Development Engineer with Computer Science background. With experience spanning various industries, I specialize in building scalable systems. My passion lies in bridging the gap between development and operations, optimizing processes, improving deployment speed and ensuring efficient software delivery.
 
 <a href="https://www.linkedin.com/in/mereilim-aitassova/">
     <img src="https://github.com/mmeekah/mmeekah/blob/main/linkedin.png" width="160" height="40" alt="LinkedIn">
