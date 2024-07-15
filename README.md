@@ -2,7 +2,7 @@
 
 I'm Software Development Engineer with Computer Science background. With experience spanning various industries, I specialize in building scalable systems. My passion lies in bridging the gap between development and operations, optimizing processes, improving deployment speed and ensuring efficient software delivery.
 
-<a href="https://www.linkedin.com/in/mereilim-aitassova/">
+<a href="https://www.linkedin.com/">
     <img src="https://github.com/mmeekah/mmeekah/blob/main/linkedin.png" width="160" height="40" alt="LinkedIn">
 </a>
 <a href="https://epic-goldwasser-4ed6e8.netlify.app/">
